@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krishna-rawat-hp
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Krishna Kant Rawat
+- 👀 I’m interested in Full Stack Developer
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 Want to reach me contact rawatkrishnakant8319@gmail.com 
 
