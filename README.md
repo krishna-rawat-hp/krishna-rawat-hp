@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna Kant Rawat
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently working on React
+- 💞️ I’m looking to collaborate on Java Springboot and React
 - 📫 Want to reach me contact rawatkrishnakant8319@gmail.com 
 
 <!---
